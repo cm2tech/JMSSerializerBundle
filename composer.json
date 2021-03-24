@@ -1,5 +1,5 @@
 {
-    "name": "jms/serializer-bundle",
+    "name": "cm2tech/serializer-bundle",
     "type": "symfony-bundle",
     "description": "Allows you to easily serialize, and deserialize data of any complexity",
     "keywords": ["serialization", "deserialization", "json", "jaxb", "xml"],
@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": "^5.4|^7.0",
-        "jms/serializer": "^1.10",
+        "cm2tech/serializer": "^1.14",
         "phpoption/phpoption": "^1.1.0",
         "symfony/framework-bundle": "~2.3|~3.0|~4.0"
     },
